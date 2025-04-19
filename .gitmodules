@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "BacenAPI"]
 	path = BacenAPI
-	url = https://github.com/lissandrosousa/bacenapi
+	url = https://github.com/lissandrosousa/bacenapi.r
